@@ -1,5 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap");
+
+@font-face {
+  font-family: "Noto Sans Myanmar";
+  src: url("../fonts/NotoSansMyanmar-Regular.woff2");
+  font-display: swap;
+}
+
 html {
-    font-family: 'Reddit Mono', monospace;
+    font-family: Inter, 'Noto Sans Myanmar', monospace;
     width: 100%;
 }
 
